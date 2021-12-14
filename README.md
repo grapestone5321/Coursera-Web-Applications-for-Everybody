@@ -25,7 +25,7 @@ Hello and welcome to my site where you can work through these modules and learn 
 
 1: Introduction to Dynamic Web Content
 
-We look at the basic structure of a web
+We look at the basic structure of a web application and how a web browser interacts with a web server. We explore the Request-Response Cycle that is the basis of the Hypertext Transfer Protocol (HTTP).
 
 2: HyperText Markup Language (HTML)
 
