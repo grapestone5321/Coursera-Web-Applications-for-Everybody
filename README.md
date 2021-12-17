@@ -33,11 +33,11 @@ We briefly cover the basics of cascading Style Sheets (CSS) that allow us to sty
 
 3: Cascading Style Sheets (CSS)
 
-We briefly cover the basics of cascading Style Sheets (CSS) that allow us to style
+We briefly cover the basics of cascading Style Sheets (CSS) that allow us to style the markup for web pages.
 
 4: Installing PHP and SQL
 
-The first task is to work through the installation steps including installing a text
+The first task is to work through the installation steps including installing a text editor, installing MAMP or XAMPP (or equivalent), creating a MySql Database, and writing a PHP program.
 
 5: Introduction to PHP
 
