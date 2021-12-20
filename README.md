@@ -59,7 +59,7 @@ We look at how HTML forms are created and processed in the PHP language.
 
 9: Introduction to Structured Query Language (SQL)
 
-We learn about single table queries and
+We learn about single table queries and the basic syntax of the SQL language.
 
 10: Database Design
 
