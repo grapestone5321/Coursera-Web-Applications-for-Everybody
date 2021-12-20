@@ -29,7 +29,7 @@ We look at the basic structure of a web application and how a web browser intera
 
 2: HyperText Markup Language (HTML)
 
-We briefly cover the basics of cascading Style Sheets (CSS) that allow us to style the markup for web pages.
+We briefly cover the basics of the HyperText Markup Language (HTML) that is the markup for web pages.
 
 3: Cascading Style Sheets (CSS)
 
