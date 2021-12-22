@@ -71,8 +71,7 @@ We look at the object oriented pattern in the PHP language.
 
 12: PHP and MySQL
 
-We look at how we connect to a MySQL using the Portable Data Objects (PDO)
-
+We look at how we connect to a MySQL using the Portable Data Objects (PDO) library and issue SQL commands in the the PHP language.
 
 13: PHP Cookies and Sessions
 
