@@ -63,7 +63,7 @@ We learn about single table queries and the basic syntax of the SQL language.
 
 10: Database Design
 
-Covering database design with multiple tables, foreign keys, and the JOIN
+Covering database design with multiple tables, foreign keys, and the JOIN operation.
 
 11: PHP Objects
 
