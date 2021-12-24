@@ -79,8 +79,7 @@ We look at how PHP uses cookies and manages session data.
 
 14: PHP Routing, Redirect and Authentication
 
-We look at how PHP avoids double
-
+We look at how PHP avoids double posting data, how flash messages are implemented, and how we use a session to log in users in web applications.
 
 15: Building a CRUD Application
 
