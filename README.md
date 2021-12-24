@@ -83,7 +83,7 @@ We look at how PHP avoids double posting data, how flash messages are implemente
 
 15: Building a CRUD Application
 
-Now we build our first 'complete' application that has multiple screens to
+Now we build our first 'complete' application that has multiple screens to Create, Read, Update and Delete (CRUD) our data. This brings all the previous concepts together and will form the basis for all later web applications.
 
 16: Basic JavaScript
 
