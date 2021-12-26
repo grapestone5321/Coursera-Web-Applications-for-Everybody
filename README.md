@@ -87,7 +87,7 @@ Now we build our first 'complete' application that has multiple screens to Creat
 
 16: Basic JavaScript
 
-We talk a quick look at the JavaScript language. We assume that you already
+We talk a quick look at the JavaScript language. We assume that you already know PHP - so it is a pretty quick introduction focusing on what is different about JavaScript.
 
 17: JavaScript Objects
 
