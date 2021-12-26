@@ -91,7 +91,7 @@ We talk a quick look at the JavaScript language. We assume that you already know
 
 17: JavaScript Objects
 
-We do a quick look at how the JavaScript language supports the Object-Oriented
+We do a quick look at how the JavaScript language supports the Object-Oriented pattern.
 
 18: jQuery
 
