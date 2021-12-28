@@ -95,7 +95,8 @@ We do a quick look at how the JavaScript language supports the Object-Oriented p
 
 18: jQuery
 
-This is a brief introduction to the JQuery library which is widely used to do in-
+This is a brief introduction to the JQuery library which is widely used to do in-browser manipulation of the Document Object Model(DOM) and event handling.
+
 
 
 19: JSON - JavaScript Object Notation
