@@ -101,7 +101,7 @@ This is a brief introduction to the JQuery library which is widely used to do in
 
 19: JSON - JavaScript Object Notation
 
-In this section we look at JavaScript
+In this section we look at JavaScript Object Notation (JSON). JSON is commonly used as a syntax to exchange data between code running on the server (i.e. in PHP) and code running in the browser (JavaScript/JQuery).
 
 20: Handlebars UI Templates
 
