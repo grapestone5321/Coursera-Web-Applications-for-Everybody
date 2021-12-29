@@ -105,8 +105,7 @@ In this section we look at JavaScript Object Notation (JSON). JSON is commonly u
 
 20: Handlebars UI Templates
 
-In this section we look at moving the templates to build HTML fragments from
-
+In this section we look at moving the templates to build HTML fragments from the server (PHP) in to the browser (JavaScript) using the Handlebars library.
 
 21: Advanced SQL
 
